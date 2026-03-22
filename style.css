@@ -52,7 +52,8 @@ body {
 }
 
 .hero {
-  background: url('images/hero-bg.jpg') center center / cover no-repeat;
+  background: url('images/omar_hero.jpg') center center / cover no-repeat;
+  background-attachment: fixed;
 }
 
 .hero-overlay {
